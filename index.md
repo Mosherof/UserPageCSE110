@@ -4,7 +4,7 @@
 
 \- *M.O.*
 
-### Intro: Gallery
+### (Re)Intro: Gallery
 <picture>
   <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg" width="200">
 </picture>
@@ -16,4 +16,11 @@
 ## Experience 
 [***Here***](https://drive.google.com/file/d/1C4S_4A7KjHSumRafDZuZHzzaKnhjhFov/view?usp=drive_link) is my resume.
 ## Hobbies
-
+## Example Psuedo Code
+```
+function hasCode(assignment) bool
+    includedCode = False
+    if example of code is in assignment
+        includedCode = True
+    return includedCode
+```
