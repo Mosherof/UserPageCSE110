@@ -14,8 +14,8 @@
 </picture>
 
 ## Bucket List
-- [] Graduate College
-- [] Read Harry Potter Series
+- [ ] Graduate College
+- [ ] Read Harry Potter Series
 - [x] See a manatee
 
 ## Experience 
