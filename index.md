@@ -26,4 +26,4 @@ function hasCode(assignment) bool
     return includedCode
 ```
 ## Relative Link
-[Click here to see one of screenshots](README.md)
+[Click here to see one of screenshots](screenshots/Screenshot 2024-04-04 at 7.45.33 PM.png)
