@@ -1,7 +1,7 @@
 # Melissa Osheroff
 ## Introduction
 > Nice to meet you! I am currently a *fourth year* at **UCSD** and I am studying Bioengineering with a concentration in Bioinformatics. This is a website to demonstrate core markdown constructs like ~~strikethrough~~, **bold and *nested* italic**, subscript<sub>sub</sub>, and supscript<sup>sup</sup>.
-- *M.O.*
+*M.O.*
 
 ### Intro: Gallery
 <picture>
