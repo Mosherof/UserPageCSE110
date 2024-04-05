@@ -1,10 +1,9 @@
-# Pictures 
-
-# Core Markdown Constructs 
-
 # Melissa Osheroff
 ## Introduction
-Nice to meet you! I am currently a *fourth year* at **UCSD** and I am studying Bioengineering with a concentration in Bioinformatics. 
+> Nice to meet you! I am currently a *fourth year* at **UCSD** and I am studying Bioengineering with a concentration in Bioinformatics. This is a website to demonstrate core markdown constructs like ~~strikethrough~~, **bold and *nested* italic**, subscript<sub>sub</sub>, and supscript<sup>sup</sup>.
+- *M.O.*
+
+### Intro: Gallery
 <picture>
   <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg" width="200">
 </picture>
