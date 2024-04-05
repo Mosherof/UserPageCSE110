@@ -3,9 +3,11 @@
 # Core Markdown Constructs 
 
 # Melissa Osheroff
-###  User Page for CSE 110
 ## Introduction
 Nice to meet you! I am currently a *fourth year* at **UCSD** and I am studying Bioengineering with a concentration in Bioinformatics. 
+<picture>
+  <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg">
+</picture>
 
 ## Professional Goals
 ## Experience 
