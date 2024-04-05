@@ -6,10 +6,10 @@
 ## Introduction
 Nice to meet you! I am currently a *fourth year* at **UCSD** and I am studying Bioengineering with a concentration in Bioinformatics. 
 <picture>
-  <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg" style="width:40%;">
+  <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg" width="200">
 </picture>
 <picture>
- <img alt="bunny" src="70423336282__DE581140-A682-4ED2-9A68-5F70BB2B5070.jpg" style="width:40%;">
+ <img alt="bunny" src="70423336282__DE581140-A682-4ED2-9A68-5F70BB2B5070.jpg" width="200">
 </picture>
 
 ## Professional Goals
