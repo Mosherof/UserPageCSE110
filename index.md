@@ -5,13 +5,9 @@
 \- *M.O.*
 
 ### (Re)Intro: Gallery
-- <picture>
-  <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg" width="200">
-</picture>
+- <img alt="Me" src="PHOTO-2024-03-29-15-04-41 (1).jpg" width="200">
 
-- <picture>
- <img alt="bunny" src="70423336282__DE581140-A682-4ED2-9A68-5F70BB2B5070.jpg" width="200">
-</picture>
+- <img alt="bunny" src="70423336282__DE581140-A682-4ED2-9A68-5F70BB2B5070.jpg" width="200">
 
 ## Bucket List
 - [ ] Graduate College
@@ -21,6 +17,7 @@
 ## Experience 
 1. [***Here***](https://drive.google.com/file/d/1C4S_4A7KjHSumRafDZuZHzzaKnhjhFov/view?usp=drive_link) is my resume.
 2. Or you can just take my word for it.
+   
 ## Hobbies
 
 ## Example Psuedo Code
